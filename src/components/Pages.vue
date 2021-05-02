@@ -2,7 +2,7 @@
 	<div>
 		<div v-if="selection == 'Contact'">
 			<h3> Find me at: </h3>
-			<p> NYC </p>
+			<p> SF Bay Area </p>
 		</div>
 		<div v-else-if="selection == 'Work'">
 			<h2> Portfolio </h2>
